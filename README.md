@@ -591,7 +591,7 @@ Si utilizas este proyecto en tu investigación o trabajo, por favor cítalo:
 
 ### ⭐ Si este proyecto te fue útil, considera darle una estrella ⭐
 
-**Hecho con ❤️ por el equipo de análisis regional**
+**Hecho con ❤️ por el equipo de análisis talento tech**
 
 [⬆ Volver arriba](#-análisis-de-datos-para-el-desarrollo-regional)
 
@@ -599,5 +599,5 @@ Si utilizas este proyecto en tu investigación o trabajo, por favor cítalo:
 
 ---
 
-**Última actualización:** [Fecha]
+**Última actualización:** 11/11/2025
 **Versión:** 1.0.0
